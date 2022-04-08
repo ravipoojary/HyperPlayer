@@ -176,12 +176,11 @@ padding-left: 25px;
      .card_container{
         margin: auto;
     } 
-    .player,.section-1{
+    .section-1{
         width: 100vw;
         height: 50vh;
     }
-    .player_song{
-        margin: 10px 0;
-    }
+   
+   
 }
 
