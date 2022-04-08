@@ -54,9 +54,9 @@ var songs=[
             id:09
     },
     {
-        imgSrc:"./images/DIVINE - MIRCHI.jfif",
+        imgSrc:"./images/DIVINE - MIRCHI.jpg",
         audioSrc:"./audios/DIVINE - MIRCHI Feat. Stylo G, MC Altaf & Phenom _ Official Music Video.mp3",
-        titleSrc:"Mirchi-Divine",
+        titleSrc:"DIVINE - MIRCHI",
             id:10
     },
     {
